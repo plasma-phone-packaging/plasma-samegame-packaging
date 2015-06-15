@@ -1,0 +1,29 @@
+plasma-samegame (0.0.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Initial package
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sun, 14 Jun 2015 00:51:39 +0200
+
+plasma-samegame (0.0.1ubuntu3) vivid; urgency=medium
+
+  * remove deps
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 20:18:59 +0000
+
+plasma-samegame (0.0.1ubuntu2) vivid; urgency=medium
+
+  * add cmakelists.txt
+
+ -- Boudewijn Rempt <boud@kde.org>  Sun, 07 Jun 2015 17:33:27 +0000
+
+plasma-samegame (0.0.1ubuntu1) vivid; urgency=medium
+
+  * add dep
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 08:15:58 +0000
+
+plasma-samegame (0.0.1) vivid; urgency=medium
+
+  * Initial release. 
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 05 June 2015 09:50:41 +0000

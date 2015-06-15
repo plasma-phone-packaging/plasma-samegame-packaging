@@ -1,0 +1,19 @@
+Source: plasma-samegame
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
+Build-Depends: baloo-kf5-dev,
+               cmake (>= 3.0.0),
+               debhelper (>= 8.0~),
+               extra-cmake-modules
+Standards-Version: 3.9.6
+Homepage: https://projects.kde.org/projects/extragear/base/plasma-samegame
+Vcs-Browser: https://github.com/plasma-phone-packaging/plasma-samegame-packaging
+Vcs-Git: https://github.com/plasma-phone-packaging/plasma-samegame-packaging.git
+
+Package: plasma-samegame
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Plasma Samegame game
+  Samegame clone suitable for mobile devices
