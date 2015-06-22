@@ -6,6 +6,7 @@ XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 Build-Depends: cmake (>= 3.0.0),
                debhelper (>= 9),
                extra-cmake-modules,
+               libkf5package-dev,
                pkg-kde-tools
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/extragear/base/plasma-samegame
